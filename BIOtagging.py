@@ -6,7 +6,7 @@ import numpy as np
 import string
 from tqdm import tqdm
 
-def PUUtext_to_tagReadyDF(input, isCSV=True, more_stopwords=None):
+def text_to_tagReadyDF(input, isCSV=True, more_stopwords=None):
 	"""
 	This function is used to convert raw text of PUU (either CSV file or pandas Series) into tag-ready dataframe.
 
