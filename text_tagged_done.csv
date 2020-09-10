@@ -1,0 +1,518 @@
+token_0,BIO_tag_0
+Menteri,o
+ ,O
+BUMN,b-organisasi
+ ,O
+Erick,b-nama
+ ,O
+Thohir,e-nama
+ ,O
+meluncurkan,o
+ ,O
+logo,o
+ ,O
+baru,o
+ ,O
+Kementerian,b-organisasi
+ ,O
+BUMN,e-organisasi
+ ,O
+di,O
+ ,O
+halaman,o
+ ,O
+kantor,o
+ ,O
+Kementerian,b-organisasi
+ ,O
+BUMN,e-organisasi
+",",O
+ ,O
+Jakarta,b-lokasi
+",",O
+ ,O
+Rabu,b-hari
+ ,O
+(,o
+01-Jul,b-tanggal
+),o
+.,o
+ ,O
+REPUBLIKA.CO.ID,o
+",",O
+ ,O
+JAKARTA,b-lokasi
+ ,O
+--,o
+ ,O
+Menteri,o
+ ,O
+Badan,b-organisasi
+ ,O
+Usaha,i-organisasi
+ ,O
+Milik,i-organisasi
+ ,O
+Negara,i-organisasi
+ ,O
+(,i-organisasi
+BUMN,i-organisasi
+),e-organisasi
+ ,O
+Erick,b-nama
+ ,O
+Thohir,e-nama
+ ,O
+secara,O
+ ,O
+resmi,o
+ ,O
+menetapkan,o
+ ,O
+akhlak,o
+ ,O
+sebagai,O
+ ,O
+core,o
+ ,O
+value,o
+ ,O
+dari,O
+ ,O
+BUMN,b-organisasi
+ ,O
+pada,O
+ ,O
+Rabu,b-hari
+ ,O
+(,o
+01-Jul,b-tanggal
+),o
+.,o
+ ,O
+Penetapan,o
+ ,O
+akhlak,o
+ ,O
+sebagai,O
+ ,O
+core,o
+ ,O
+value,o
+ ,O
+BUMN,b-organisasi
+ ,O
+bersamaan,o
+ ,O
+dengan,O
+ ,O
+acara,o
+ ,O
+perubahan,o
+ ,O
+logo,o
+ ,O
+dan,O
+ ,O
+slogan,o
+ ,O
+Kementerian,b-organisasi
+ ,O
+BUMN,e-organisasi
+.,o
+``,o
+Hari,o
+ ,O
+ini,O
+ ,O
+juga,O
+ ,O
+saya,O
+ ,O
+ingin,O
+ ,O
+menetapkan,o
+ ,O
+akhlak,o
+ ,O
+sebagai,O
+ ,O
+core,o
+ ,O
+value,o
+ ,O
+bukan,o
+ ,O
+lip,o
+ ,O
+service,o
+ ,O
+karena,O
+ ,O
+kalau,o
+ ,O
+kita,O
+ ,O
+bekerja,o
+ ,O
+ada,O
+ ,O
+core,o
+ ,O
+value,o
+",",O
+ ,O
+ini,O
+ ,O
+yang,O
+ ,O
+membuat,o
+ ,O
+kita,O
+ ,O
+kuat,o
+",",O
+'',o
+ ,O
+ujar,o
+ ,O
+Erick,b-nama
+ ,O
+saat,O
+ ,O
+meresmikan,o
+ ,O
+perubahan,o
+ ,O
+logo,o
+ ,O
+dan,O
+ ,O
+slogan,o
+ ,O
+Kementerian,b-organisasi
+ ,O
+BUMN,e-organisasi
+ ,O
+di,O
+ ,O
+halaman,o
+ ,O
+kantor,o
+ ,O
+Kementerian,b-organisasi
+ ,O
+BUMN,e-organisasi
+ ,O
+di,O
+ ,O
+Jalan,b-lokasi
+ ,O
+Medan,i-lokasi
+ ,O
+Merdeka,i-lokasi
+ ,O
+Selatan,i-lokasi
+",",i-lokasi
+ ,O
+Jakarta,e-lokasi
+",",O
+ ,O
+Rabu,b-hari
+ ,O
+(,o
+01-Jul,b-tanggal
+),o
+.Erick,b-nama
+ ,O
+menjadikan,o
+ ,O
+akhlak,o
+ ,O
+sebagai,O
+ ,O
+panduan,o
+ ,O
+bagi,O
+ ,O
+manajemen,o
+ ,O
+BUMN,b-organisasi
+ ,O
+untuk,O
+ ,O
+dapat,O
+ ,O
+bekerja,o
+ ,O
+dengan,O
+ ,O
+benar,o
+ ,O
+demi,O
+ ,O
+kepentingan,o
+ ,O
+bangsa,o
+",",O
+ ,O
+bukan,o
+ ,O
+kepentingan,o
+ ,O
+pribadi,o
+ ,O
+atau,O
+ ,O
+kelompok,o
+.,o
+ ,O
+Erick,b-nama
+ ,O
+memerinci,o
+ ,O
+akronim,o
+ ,O
+akhlak,o
+ ,O
+terdiri,o
+ ,O
+atas,o
+ ,O
+amanah,o
+",",O
+ ,O
+kompeten,o
+",",O
+ ,O
+harmonis,o
+",",O
+ ,O
+loyal,o
+",",O
+ ,O
+adaptif,o
+",",O
+ ,O
+dan,O
+ ,O
+kolaboratif.,o
+Erick,b-nama
+ ,O
+menilai,o
+ ,O
+faktor,o
+ ,O
+akhlak,o
+ ,O
+sangat,o
+ ,O
+vital,o
+ ,O
+bagi,O
+ ,O
+BUMN,b-organisasi
+ ,O
+untuk,O
+ ,O
+maju,o
+.,o
+ ,O
+Ia,O
+ ,O
+mencontohkan,o
+ ,O
+poin,o
+ ,O
+penting,o
+ ,O
+loyal,o
+ ,O
+yang,O
+ ,O
+harus,O
+ ,O
+menjadi,o
+ ,O
+acuan,o
+ ,O
+bagi,O
+ ,O
+manajemen,o
+ ,O
+BUMN,b-organisasi
+ ,O
+bekerja,o
+ ,O
+untuk,O
+ ,O
+kepentingan,o
+ ,O
+bangsa,o
+ ,O
+dan,O
+ ,O
+tidak,O
+ ,O
+menyalahgunakan,o
+ ,O
+kewenangan,o
+ ,O
+untuk,O
+ ,O
+kepentingan,o
+ ,O
+pribadi,o
+ ,O
+atau,O
+ ,O
+kelompok,o
+.,o
+``,o
+Ada,O
+ ,O
+53,o
+ ,O
+kasus,o
+ ,O
+hukum,o
+ ,O
+di,O
+ ,O
+BUMN,o
+ ,O
+yang,O
+ ,O
+kita,O
+ ,O
+nggak,O
+ ,O
+mau,o
+ ,O
+terulang,o
+ ,O
+lagi,O
+",",O
+ ,O
+ini,O
+ ,O
+kenapa,O
+ ,O
+akhlak,o
+ ,O
+penting,o
+",",O
+'',o
+ ,O
+ungkap,o
+ ,O
+Erick,b-nama
+.,o
+ ,O
+Kata,o
+ ,o
+akhlak,o
+ ,O
+memang,o
+ ,O
+lekat,o
+ ,O
+dengan,O
+ ,O
+Erick,b-nama
+ ,O
+sejak,o
+ ,O
+awal,o
+ ,O
+menjabat,o
+ ,O
+sebagai,O
+ ,O
+Menteri,o
+ ,O
+BUMN,b-organisasi
+.,o
+ ,O
+Dalam,O
+ ,O
+setiap,O
+ ,O
+kesempatan,o
+",",O
+ ,O
+mantan,o
+ ,O
+pemilik,o
+ ,O
+Inter,b-organisasi
+ ,O
+Milan,e-organisasi
+ ,O
+itu,O
+ ,O
+selalu,o
+ ,O
+menaruh,o
+ ,O
+pesan,o
+ ,O
+pentingnya,o
+ ,O
+akhlak,o
+ ,O
+bagi,O
+ ,O
+manajemen,o
+ ,O
+BUMN,b-organisasi
+.,o
+``,o
+InsyaAllah,o
+ ,O
+saya,O
+ ,O
+yakini,o
+ ,O
+dengan,O
+ ,O
+kerja,o
+ ,O
+keras,o
+ ,O
+kita,O
+ ,O
+semua,o
+ ,O
+dan,O
+ ,O
+akhlak,o
+ ,O
+sebagai,O
+ ,O
+core,o
+ ,O
+value,o
+",",O
+ ,O
+bismillah,o
+ ,O
+lillahi,o
+ ,O
+taala,o
+",",O
+ ,O
+Allah,o
+ ,O
+SWT,o
+ ,O
+akan,O
+ ,O
+memudahkan,o
+",",O
+'',o
+ ,O
+kata,o
+ ,O
+Erick,b-nama
+.,o
